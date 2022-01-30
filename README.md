@@ -2,7 +2,6 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>My Cite</title>
     <link rel="stylesheet" href="CSS/style.css">
     <link rel="shortcut icon" href="images/favicon.ico">
   </head>
