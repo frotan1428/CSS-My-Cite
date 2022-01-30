@@ -1,0 +1,125 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: verdana,  sans-serif;
+}
+h1{
+  color: #FFFDDE;
+  font-family: 'Bradley Hand ITC',sans-serif;
+  font-size: 562.5;
+  margin-top: 50px;
+  line-height: 2;
+}
+h2{
+  font-family: serif;
+  font-size: 40px;
+  color: #91C483;
+
+
+}
+h3{
+  color: #FFFDDE;
+
+  font-family: sans-serif;
+  font-size: 30px;
+
+
+}
+p{
+  color: #C0D8C0;
+  font-family:'Times New Roman (Headings CS)', sans-serif;
+  font-size: 1.5rem;
+  margin-right: 10px;
+}
+.Top-container{
+  background-color: #DD4A48;
+  position: relative;
+  padding: 100px;
+
+}
+.midle-container{
+    background-color: #FF6464;
+}
+.bottom-container{
+  background-color: #DD4A48;
+    padding:30px;
+}
+.pro{
+  text-decoration: underline;
+}
+.top-cloud{
+position: absolute;
+right: 150px;
+top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 150px;
+  bottom: 300px
+
+}
+.my-photo{
+  padding-top: 50px;
+  width: 25%;
+
+
+}
+.skills{
+  padding-top:10px;
+}
+
+.skill-row{
+  width: 60%;
+  margin:60px auto 60px auto;
+  line-height: 2;
+}
+.code-img{
+  width: 30%;
+  border-radius: 60%;
+
+}
+.chilli-img{
+  padding-top: 40px;
+  width: 25%;
+  margin-right: 5px;
+
+
+}
+hr{
+  border-style: dotted ;
+  border-color: #F2F5C8;
+  border-width: 10px;
+  border-bottom: none;
+  margin: 100px auto;
+  width: 10%;
+}
+.contact-message{
+  width: 50%;
+  padding-bottom:30px;
+  margin: 10px auto 60px;
+}
+img{
+  width: 25%;
+}
+.btn {
+    background-color: #9AD0EC; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px 40px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+a{
+  margin: 20px 10px;
+  color: white;
+}
+a:hover{
+  color: #EFDAD7
+}
